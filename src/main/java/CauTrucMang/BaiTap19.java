@@ -54,7 +54,7 @@ public class BaiTap19 {
     public static void sapXepTang(int[] a) {
         
     }
-    public static void LietKeSoUoc(int[] a,int x) {
+    public static void lietKeUocSo(int[] a,int x) {
         
     }
 }
